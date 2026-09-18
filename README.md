@@ -23,9 +23,9 @@ Sistema desenvolvido em Java para gerenciamento de agendamentos de um salão de 
 
 ## Estrutura
 
-Main.java
-Funcionarios.java
-ListaF.java
+-Main.java
+-Funcionarios.java
+-ListaF.java
 
 ---
 13/09/2026
