@@ -23,7 +23,6 @@ Sistema desenvolvido em Java para gerenciamento de agendamentos de um salão de 
 
 ## Estrutura
 
-```text
 Main.java
 Funcionarios.java
 ListaF.java
@@ -35,3 +34,4 @@ ListaF.java
 
 Estudante de Desenvolvimento de Sistemas
 Foco em Java, Desenvolvimento Web e Ciência da Computação
+
