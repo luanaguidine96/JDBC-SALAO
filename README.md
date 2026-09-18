@@ -27,3 +27,11 @@ Sistema desenvolvido em Java para gerenciamento de agendamentos de um salão de 
 Main.java
 Funcionarios.java
 ListaF.java
+
+---
+13/09/2026
+---
+**Luana Guidine**
+
+Estudante de Desenvolvimento de Sistemas
+Foco em Java, Desenvolvimento Web e Ciência da Computação
